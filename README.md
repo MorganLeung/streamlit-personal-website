@@ -1,6 +1,28 @@
-# Personal Website with Streamlit
+# Personal Website using Streamlit
 
-This is a personal website built using Streamlit, featuring multiple pages and interactive components.
+This is a personal website built using Streamlit, featuring multiple pages including Home, Education, Experience, Resume, and Contact sections.
+
+## Features
+- Multi-page navigation
+- Responsive design
+- Clean and modern UI
+- Easy to maintain and update
+
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the application:
+```bash
+streamlit run streamlit_app.py
+```
+
+## Project Structure
+- `streamlit_app.py`: Main application file
+- `page_content/`: Directory containing individual page content
+- `components/`: Directory containing reusable components
 
 ## Project Structure
 
